@@ -1,0 +1,61 @@
+.head{
+    background-color: #5A21CE;
+    height: 12vh;
+    display: flex;
+}
+
+h2 {
+    color: whitesmoke;
+    font-size: 1.5rem;
+    font-weight: 700;
+    position: relative;
+    left: 1em;
+}
+
+.search-div {
+    margin-top: 5vh;
+    margin-left: 5vw;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    height: 10vh;
+    text-align: left;
+}
+
+label {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+input {
+    width: 13vw;
+    height: 3vh;
+    border-radius: 5px;
+}
+
+.box {
+    padding: 1em 0;
+    margin-left: 5vw;
+    width: 45.1vw;
+    height: 12.1vh;
+    list-style-type: none;
+}
+
+.caloriecart {
+    position: relative;
+    bottom: 123vh;
+    left: 60vw;
+
+    border: 1px dotted red;
+    height: 50vh;
+    width: 30vw;
+}
+
+h3 {
+    font-weight: 400;
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+}

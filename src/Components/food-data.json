@@ -1,0 +1,9 @@
+[
+    {"id":1,"imgLink":"https://i.imgur.com/eTmWoAN.png","name":"Pizza","cal":"400 cal"},
+    {"id":2,"imgLink":"https://i.imgur.com/CUG0Aof.jpeg","name":"Burger","cal":"247 cal"},
+    {"id":3,"imgLink":"https://i.imgur.com/tJHY7VL.jpeg","name":"Somosa","cal":"262 cal"},
+    {"id":4,"imgLink":"https://i.imgur.com/OB0oKaP.jpeg","name":"Idli","cal":"34 cal"},
+    {"id":5,"imgLink":"https://i.imgur.com/Mt1a720.jpeg","name":"Dosa","cal":"133 cal"},
+    {"id":6,"imgLink":"https://i.imgur.com/rbGnK3k.jpeg","name":"Biryani","cal":"550 cal"},
+    {"id":7,"imgLink":"https://i.imgur.com/Rxry7Nd.jpeg","name":"Thali","cal":"890 cal"}
+]
