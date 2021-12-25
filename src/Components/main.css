@@ -45,8 +45,6 @@ input {
     position: relative;
     bottom: 123vh;
     left: 60vw;
-
-    border: 1px dotted red;
     height: 50vh;
     width: 30vw;
 }
